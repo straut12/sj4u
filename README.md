@@ -32,6 +32,8 @@ Projects include additional hardware
 * Eink display (waveshare e-ink screen)
 * Rotary Encoder
 
+Will continue to update
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
